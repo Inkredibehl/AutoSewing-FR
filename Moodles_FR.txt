@@ -1,0 +1,5 @@
+Moodles_FR {
+    Moodles_ClothingHole_Good_lvl2 = "Plus aucun trou dans vos vêtements",
+    Moodles_ClothingHole_Bad_lvl2 = "Vous pouvez sentir l'air circuler à travers vos vêtements troués",
+    Moodles_ClothingHole_Custom = "Il est peut-être temps de prendre soin de vos %1 trous.",
+}
